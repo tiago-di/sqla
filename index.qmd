@@ -19,3 +19,7 @@ Apresentar aos servidores novos saberes e olhares em relação aos agentes quím
 2. Produtos Químicos: do recebimento no laboratório ao descarte.
 
     - *Objetivo específico 3:* Demonstrar procedimentos de segurança no fluxo dos produtos em laboratórios, desde o recebimento até o descarte para coleta;
+
+## Slides
+
+ - [Boas vindas](welcome.qmd)

@@ -1,11 +1,29 @@
-## Objetivos da aula
+---
+title: "Conceitos de toxicologia"
+author: "Tiago Dias"
+lang: pt-BR
+format: 
+    revealjs:
+        logo: "../../imagens/logo_ufg.png"
+        width: 1600
+        height: 900
+        self-contained: false
+        incremental: false
+        footer: DAD/PROPESSOAS/UFG - Set/2023
+        theme: ["custom.scss"]
+        slide-number: c/t
+        show-slide-number: all
+        hash-type: number
+        preview-links: false
+
+---
+
+## Objetivos
 
 - Explorar os conceitos básicos: toxicologia, agente tóxico, toxicidade
 - Diferenciar os termos: agente tóxico, toxina e veneno
 - Explicar as Condições e as Características da exposição e como essas condições interferem na expressão da toxicidade
 - Abordar os principais fatores intervenientes na expressão da toxicidade que são: Magnitude, duração e frequência de exposição
-
-
 
 ## O que é toxicologia?
 

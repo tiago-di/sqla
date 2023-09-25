@@ -53,5 +53,23 @@ Apresentar aos servidores novos saberes e olhares em relação aos agentes quím
 
     - Demonstrar procedimentos de segurança no fluxo dos produtos em laboratórios, desde o recebimento até o descarte para coleta;
 
-## 
+## Acesse o conteúdo
+
+::: columns
+::: {.column width="60%"}
+![](/imagens/bit.ly_seg-quim.png)
+
+### [https://bit.ly/seg-quim](https://bit.ly/seg-quim)
+
+:::
+
+::: {.column width="40%"}
+
+### Índice da aula
+ 1. Introdução
+ 2. Toxicologia
+ 3. Segurança química
+
+:::
+:::
 
