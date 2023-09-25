@@ -1,0 +1,21 @@
+---
+title: "Agentes Químicos"
+subtitle: "Toxicologia e Segurança"
+author: Tiago Dias
+lang: pt-Br
+---
+
+## Objetivo geral
+
+Apresentar aos servidores novos saberes e olhares em relação aos agentes químicos presentes em seus ambientes de trabalho.
+
+## Conteúdo programático
+
+1. Contextualização sobre as propriedades químicas e sua relação com a toxicologia e segurança laboratorial
+
+    - *Objetivo específico 1:* Conhecer os diferentes agentes químicos, formas de contaminação, ação no organismo e meios de prevenção e controle.
+    - *Objetivo específico 2:* Relacionar as normas técnicas da ABNT aos conhecimentos sobre as propriedades dos agentes químicos seus perigos.
+
+2. Produtos Químicos: do recebimento no laboratório ao descarte.
+
+    - *Objetivo específico 3:* Demonstrar procedimentos de segurança no fluxo dos produtos em laboratórios, desde o recebimento até o descarte para coleta;
