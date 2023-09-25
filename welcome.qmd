@@ -1,17 +1,18 @@
 ---
-title: "Agentes Químicos e Biológicos - Novos Saberes e Olhares"
-author: "Tiago Dias"
-subtitle: Teste
+title: "**Agentes Químicos e Biológicos**"
+subtitle: "Novos saberes e olhares"
+author: "DAD/PROPESSOAS/UFG"
+date: 27/sep/2023
 date-format: MMM/YYYY
 lang: pt-BR
 format: 
     revealjs:
-        #logo: "imagens/logo_ufg.png"
+        logo: "imagens/logo_ufg.png"
         width: 1600
         height: 900
         self-contained: false
         incremental: false
-        footer: DAD/PROPESSOAS/UFG - Set/2023
+        footer: "Voltar"
         theme: ["custom.scss"]
         slide-number: c/t
         show-slide-number: all
@@ -67,7 +68,7 @@ Apresentar aos servidores novos saberes e olhares em relação aos agentes quím
 
 ::: {.column width="40%"}
 
-### Índice da aula
+### Conteúdo
  1. Introdução
  2. Toxicologia
  3. Segurança química
