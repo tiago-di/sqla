@@ -1,6 +1,8 @@
 ---
 title: "Agentes Químicos e Biológicos - Novos Saberes e Olhares"
 author: "Tiago Dias"
+subtitle: Teste
+date-format: MMM/YYYY
 lang: pt-BR
 format: 
     revealjs:
