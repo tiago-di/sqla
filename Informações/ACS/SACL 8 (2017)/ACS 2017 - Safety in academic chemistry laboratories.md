@@ -1,5 +1,5 @@
 ---
-bibliography: ../../../../Referências/Bibliografia.json
+# bibliography: ../../../../Referências/Bibliografia.json
 ---
 
 # Safety in Academic Chemistry Laboratories - 8TH EDITION: BEST PRACTICES FOR FIRST- AND SECOND-YEAR UNIVERSITY STUDENTS

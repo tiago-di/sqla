@@ -1,7 +1,7 @@
 ---
 author: "American Chemical Society"
 title: "Guidelines for Chemical Laboratory Safety in Secondary Schools"
-bibliography: ../../../Referências/Bibliografia.json
+# bibliography: ../../../Referências/Bibliografia.json
 ---
 
 Published by American Chemical Society 1155 Sixteenth Street, NW
