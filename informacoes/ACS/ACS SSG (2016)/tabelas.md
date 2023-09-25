@@ -255,26 +255,6 @@
 |                       | *Source of image:*    |                       |
 |                       | Wikimedia. Fire       |                       |
 |                       | Tetrahedron.          |                       |
-|                       | [https://upload.wik   |                       |
-|                       | imedia.org/wikipedia/ |                       |
-|                       | commons/thumb/9/99/Fi |                       |
-|                       | re\_tetrahedron.](htt |                       |
-|                       | ps://upload.wikimedia |                       |
-|                       | .org/wikipedia/common |                       |
-|                       | s/thumb/9/99/Fire_tet |                       |
-|                       | rahedron.svg/220px-Fi |                       |
-|                       | re_tetrahedron.svg.pn |                       |
-|                       | g)                    |                       |
-|                       | [svg/220px-Fire\_te   |                       |
-|                       | trahedron.svg.png](ht |                       |
-|                       | tps://upload.wikimedi |                       |
-|                       | a.org/wikipedia/commo |                       |
-|                       | ns/thumb/9/99/Fire_te |                       |
-|                       | trahedron.svg/220px-F |                       |
-|                       | ire_tetrahedron.svg.p |                       |
-|                       | ng)                   |                       |
-|                       | (accessed June 19,    |                       |
-|                       | 2015).                |                       |
 +-----------------------+-----------------------+-----------------------+
 | **One of the four     |                       |                       |
 | parts of the          |                       |                       |
