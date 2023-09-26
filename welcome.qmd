@@ -1,7 +1,7 @@
 ---
 title: "**Agentes Químicos e Biológicos**"
 subtitle: "Novos saberes e olhares"
-author: "DAD/PROPESSOAS/UFG"
+author: "Tiago Dias"
 date: 27/sep/2023
 date-format: MMM/YYYY
 lang: pt-BR
@@ -12,7 +12,7 @@ format:
         height: 900
         self-contained: false
         incremental: false
-        footer: "Voltar"
+        footer: "DAD/PROPESSOAS/UFG"
         theme: ["custom.scss"]
         slide-number: c/t
         show-slide-number: all
@@ -58,21 +58,13 @@ Apresentar aos servidores novos saberes e olhares em relação aos agentes quím
 
 ## Acesse o conteúdo
 
-::: columns
-::: {.column width="60%"}
 ![](/imagens/bit.ly_seg-quim.png)
 
 ### [https://bit.ly/seg-quim](https://bit.ly/seg-quim)
 
-:::
+# Introdução
 
-::: {.column width="40%"}
 
-### Conteúdo
- 1. Introdução
- 2. Toxicologia
- 3. Segurança química
 
-:::
-:::
+
 

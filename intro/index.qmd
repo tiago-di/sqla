@@ -1,0 +1,58 @@
+# Compreendendo perigo e risco
+
+## O que é um perigo?
+
+::: columns
+::: {.column width="70%"}
+
+- Um perigo é o potencial de causar danos, como por exemplo, a capacidade de um incêndio de queimar você.
+
+    - Por exemplo, vamos considerar o aquecimento de uma cápsula de evaporação com um bico de Bunsen.
+
+    - O bico usa uma chama aberta, e o fogo pode queimar você ou inflamar materiais combustíveis ou inflamáveis. Isso é um perigo.
+
+> Perigos são propriedades intrínsecas.
+
+:::
+
+::: {.column width="30%"}
+![](sections/perigo_vs_risco/image_1.8bbab552.png)
+:::
+
+:::
+
+## O que é um Risco?
+
+::: columns
+::: {.column width="60%"}
+
+- Um risco combina a probabilidade de um evento ocorrer e a sua gravidade.
+
+- Se um incêndio vai ou não queimar você é um risco.
+
+
+
+::: 
+
+::: {.column width="40%"}
+![](sections/perigo_vs_risco/image_2.13ea1c26.png)
+::: 
+:::
+
+> Ao contrário dos perigos, os riscos podem ser minimizados ou eliminados.
+
+## Exemplo Prático
+
+Usar roupas folgadas ao trabalhar com uma chama de bico de Bunsen aumenta o risco de as roupas pegarem fogo.
+
+![](sections/perigo_vs_risco/image_3.27e26638.png)
+
+![](sections/perigo_vs_risco/image_4.b26a4074.png)
+
+## Exemplo Prático
+
+Usar roupas que sejam não-sintéticas e ajustadas minimiza o risco de ferimentos ou de as roupas pegarem fogo.
+
+O perigo ainda está presente, mas o risco foi reduzido.
+
+![](sections/perigo_vs_risco/image_5.26e46cb6.png)

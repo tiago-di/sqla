@@ -1,0 +1,360 @@
+---
+title: "**Agentes Químicos no Laboratório**"
+subtitle: Toxicologia e Segurança
+lang: pt-BR
+format: 
+    revealjs:
+        logo: "imagens/logo_ufg.png"
+        width: 1600
+        height: 900
+        self-contained: false
+        incremental: false
+        footer: "DAD/PROPESSOAS/UFG"
+        theme: ["custom.scss"]
+        slide-number: c/t
+        show-slide-number: all
+        hash-type: number
+        preview-links: false
+---
+
+## Laboratórios químicos são perigosos? {background="#43464B" background-image="/imagens/laboratorio.jpg"}
+
+# Existe diferença entre Perigo e Risco? {.center background="#43464B"}
+
+## Perigo
+
+::: columns
+
+::: {.column width="60%"}
+::: {.incremental}
+- Um perigo é o potencial de causar danos, como por exemplo, a capacidade de um incêndio de queimar você.
+
+    - Por exemplo, vamos considerar o aquecimento de uma cápsula de evaporação com um bico de Bunsen.
+:::
+:::
+
+::: {.column width="40%"}
+::: {.incremental}
+- ![](imagens/image_1.8bbab552.png){width="400"}
+:::
+:::
+
+:::
+
+::: {.incremental}
+- O bico usa uma chama aberta, e o fogo pode queimar você ou inflamar materiais combustíveis ou inflamáveis. Isso é um perigo.
+- Perigos são propriedades intrínsecas.
+:::
+
+## Risco
+
+::: columns
+
+::: {.column width="50%"}
+::: {.incremental}
+- Um risco combina a probabilidade de um evento ocorrer e a sua gravidade.
+- Se um incêndio vai ou não queimar você é um risco.
+- ![](imagens/image_2.13ea1c26.png){width="500"}
+:::
+::: 
+
+::: {.column width="50%"}
+::: {.incremental}
+- Ao contrário dos perigos, os riscos podem ser minimizados ou eliminados.
+::: 
+:::
+
+:::
+
+## Exemplo Prático
+
+Usar roupas folgadas ao trabalhar com uma chama de bico de Bunsen aumenta o risco de as roupas pegarem fogo.
+
+::: columns
+
+::: {.column width="50%"}
+![](imagens/image_3.27e26638.png){width="500"}
+:::
+
+::: {.column width="50%"}
+![](imagens/image_4.b26a4074.png){width="500"}
+:::
+
+:::
+
+## Exemplo Prático
+
+Usar roupas que sejam não-sintéticas e ajustadas minimiza o risco de ferimentos ou de as roupas pegarem fogo.
+
+> O perigo ainda está presente, mas o risco foi reduzido.
+
+![](imagens/image_4.b26a4074.png){.center width="500"}
+
+
+## Seção de perguntas {background="#43464B"}
+<br><br>
+
+### Dê exemplos de perigos presentes no seu laboratório
+
+:::{.incremental}
+- Quais são os níveis de riscos desses perigos?
+- Como você pode minimizar esses níveis de riscos?
+- Você sabe o que fazer caso os níveis de riscos fiquem sem controle (emergência)
+:::
+
+# Os **agentes químicos** são as principais **fontes de perigos** nos laboratórios químicos
+
+## Para trabalhar em segurança em um laboratório químico, é necessário:
+
+::: columns
+
+::: {.column width="55%"}
+
+::: {.fragment .fade-up}
+- **R**econhecer os perigos
+:::
+
+::: {.fragment .fade-up}
+- **A**valiar os níveis de riscos dos perigos
+:::
+
+::: {.fragment .fade-up}
+- **M**inimizar os riscos dos perigos
+:::
+
+::: {.fragment .fade-up}
+- **P**reparar-se para as **emergências** dos **riscos descontrolados**
+:::
+
+::: {.incremental}
+- ![](imagens/RAMP.png){.center width="600"}
+:::
+
+:::
+
+::: {.column width="45%"}
+::: {.incremental}
+- ![](imagens/hill_e_finster.png){width="500"}
+:::
+:::
+
+:::
+
+## O sistema RAMP de segurança química
+
+::: columns
+
+::: {.column width="45%"}
+::: {.incremental}
+- ![](imagens/RAMP.png){.center width="400"}
+- Desenvolvido por Robert Hill e David Finster
+    - Membros dos conselhos de segurança em laboratório da ACS (Sociedade Americana de Química)
+- É recomendado nas diretrizes da ACS para laboratórios de ensino de química dos EUA
+:::
+:::
+
+::: {.column width="22.5%"}
+::: {.incremental}
+- ![Diretrizes da ACS para os laboratórios de química no ensino médio](imagens/acs-gss.png){width="420"}
+:::
+:::
+
+::: {.column width="22.5%"}
+::: {.incremental}
+- ![Diretrizes da ACS para os laboratórios acadêmicos de química](imagens/sacl8.png){width="420"}
+:::
+:::
+
+:::
+
+## O sistema RAMP no Brasil
+
+- A USP ministra a disciplina "Segurança em Laboratórios de Ensino e Pesquisa" que se baseia no sistema RAMP
+- As aulas estão disponíveis online, gratuitamente:
+
+::: columns
+
+::: {.column width="50%"}
+::: {.incremental}
+- [Slides](https://edisciplinas.usp.br/course/view.php?id=84617)
+- ![](imagens/usp01.png){width="600"}
+:::
+:::
+
+::: {.column width="50%"}
+::: {.incremental}
+- [Vídeo aulas](https://eaulas.usp.br/portal/course.action?course=24746)
+- ![](imagens/usp02.png){width="500"}
+:::
+:::
+
+:::
+
+## Seção de perguntas {background="#43464B"}
+<br><br>
+
+### Defina os princípios do sistema RAMP de segurança laboratorial
+
+::: columns
+
+::: {.column width="50%"}
+:::{.incremental}
+- **R**
+    - Reconhecer os Perigos
+- **A**
+    - Avaliar os Riscos
+:::
+:::
+
+::: {.column width="50%"}
+:::{.incremental}
+- **M**
+    - Minimizar os riscos dos perigos
+- **P**
+   - Preparar-se para as emergências dos riscos não controlados
+:::
+:::
+
+:::
+
+# O uso do sistema RAMP contribui para uma **cultura de segurança** baseada em **riscos** e não em **regras**
+
+## 3. Cultura de Segurança
+
+**O que é uma Cultura Compartilhada de Segurança?**
+
+- A segurança tem tanto a ver com crenças e atitudes compartilhadas quanto com ameaças físicas.
+
+- Coleção de crenças, valores, percepções e comportamentos sobre riscos à saúde e segurança mantidos por uma organização e seus membros como uma cultura compartilhada de segurança.
+
+
+## Cultura de Segurança Baseada em Regras
+
+**Valoriza a aderência às regras**
+
+- As regras de segurança são estabelecidas por autoridades externas ou internas, como a Administração de Segurança e Saúde Ocupacional ou um membro da faculdade. A instituição depende da fiscalização para garantir que seus membros obedeçam às regras de segurança.
+
+- Baixo envolvimento de estudantes e funcionários
+
+    - Estudantes e funcionários participam apenas marginalmente na definição das regras, portanto, têm pouco compromisso com as regras ou compreensão das razões por trás delas.
+
+
+## Cultura de Segurança Baseada em Regras
+
+**Valoriza a aderência às regras**
+
+- Requer grandes investimentos de recursos
+
+- Uma cultura baseada em regras exige treinamento constante e requalificação do pessoal. A fiscalização das regras também requer grandes quantidades de tempo e atenção.
+
+- Cria percepções negativas sobre precauções de segurança
+
+    - As regras parecem arbitrárias e inconvenientes - uma barreira para um trabalho eficiente em vez de uma proteção contra incidentes. Estudantes e funcionários tendem a desenvolver uma atitude de culpabilidade e não se importam ativamente uns com os outros.
+
+
+## Cultura de Segurança Baseada em Regras
+
+**Valoriza a aderência às regras**
+
+- Não é facilmente adaptável a novas situações
+
+- As regras são escritas para perigos conhecidos: uma operação de laboratório de rotina, uma operação comum em oficinas, e assim por diante. Quando uma nova situação se desenvolve, como um experimento inovador, as regras existentes muitas vezes não abrangem a situação, parecem excessivamente cautelosas ou especificam ações que são potencialmente perigosas.
+
+## Cultura de Segurança Baseada em Risco
+
+**Mantém o foco no risco, não nas regras**
+
+- Embora leis e regulamentos aplicáveis sejam seguidos, as pessoas concentram sua atenção em minimizar o risco em vez de memorizar regras.
+
+**As avaliações de risco são compartilhadas**
+
+- A tolerância ao risco é definida em conjunto por todos os membros da organização, não apenas por um gerente ou regulador. Todos contribuem.
+
+**Requer menos recursos**
+
+- Ensinar conceitos de risco que apoiam as regras de segurança requer menos tempo e dinheiro do que a fiscalização constante das regras e a requalificação.
+
+
+## Cultura de Segurança Baseada em Risco
+
+**Cria uma atitude positiva em relação à segurança**
+
+- Como as pessoas entendem as razões por trás dos esforços de minimização de riscos, estudantes e funcionários passam a se preocupar ativamente com a própria segurança e a segurança uns dos outros.
+
+**É adaptável a novas condições**
+
+- Quando os trabalhadores de laboratório podem reconhecer perigos, estimar riscos e identificar medidas para minimizar esses riscos, eles respondem a novos perigos e situações de maneira previsível, segura e mais competente.
+
+## Exercício de Aprendizado 1: Arraste cada item abaixo para a caixa apropriada na parte inferior.
+
+### Cultura baseada em risco
+
+- Pesquisadores educados para minimizar o risco
+- Cultura lida facilmente com situações novas
+- Colaboração favorecida em vez de fiscalização
+- Ênfase na redução do risco
+- Menos políticas, mais gerais
+
+
+
+### Cultura baseado em regras
+
+- Pesquisadores treinados em requisitos
+- Muitas políticas de segurança
+- Ênfase na conformidade com leis e regulamentos
+- Muitas inspeções de laboratório
+
+
+
+## Autoavaliação 1: Perigos, Riscos e Cultura de Segurança
+
+### Questão 1 - Associe as seguintes características a uma cultura de segurança baseada em regras (RULE) ou a uma cultura de segurança baseada em risco (RISK).
+
+a. Depende da obediência às regras = RULE
+
+b. As regras são estabelecidas por um órgão externo = RULE
+
+c. As regras são estabelecidas por uma seguradora = RULE
+
+d. As regras são vistas como um obstáculo às operações de laboratório = RULE
+
+e. As regras são acordadas coletivamente pelo grupo de laboratório = RISK
+
+f. As regras são estabelecidas por um nível de tolerância ao risco = RISK
+
+g. As regras são baseadas no julgamento individual = RISK
+
+### Questão 2 - Associe as seguintes características a uma cultura de segurança baseada em regras (RULE) ou a uma cultura de segurança baseada em risco (RISK).
+
+a. Dependência de muitas políticas de segurança = RULE
+
+b. Dependência de numerosas inspeções = RULE
+
+c. Os estudantes são educados em ciência de segurança = RISK
+
+d. A cultura é percebida como um obstáculo às operações de laboratório =
+
+RULE
+
+e. Diretrizes são acordadas coletivamente e continuamente melhoradas pelo grupo de laboratório = RISK
+
+f. Requer mais fiscalização = RULE
+
+g. Ensina conceitos que podem ser adaptados a novas situações = RISK
+
+h. Concentra-se na comunidade do laboratório = RISK
+
+
+
+## Relembrando os conceitos {background="#003366"}
+
+::: {.incremental}
+- ### Risco x Perigo
+- ### Sistema de segurança RAMP
+- ### Cultura de Regras x Cultura de Riscos
+:::
+
+
+
+
+

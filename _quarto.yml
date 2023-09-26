@@ -6,16 +6,21 @@ website:
   title: "Agentes Químicos e Biológicos - Novos Saberes e Olhares"
   description: "Novos saberes e olhares"
   navbar:
-    right:
+    left:
       - href: index.qmd
         text: Início
       - href: welcome.qmd
         text: Boas vindas
+    background: light
+    logo: /imagens/logo_ufg_vert.png
+    logo-alt: "Logo UFG"
+    title: false
+    collapse-below: lg
       
 format:
   html:
     theme: cosmo
-    css: custom.scss
+    css: styles.css
     toc: true
 
 
