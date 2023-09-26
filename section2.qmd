@@ -131,7 +131,7 @@ Paracelsus
 
 ![](imagens/9.png)
 
-### Resumoeste tópico
+### Resumo deste tópico
 
 -   Os efeitos tóxicos são objeto de estudo da toxicologia e não a substância química.
 -   Agente tóxico/toxicante é qualquer substância química ou agente físico capaz de promover um efeito nocivo ao interagir com um sistema biológico, em determinadas condições de exposição.
