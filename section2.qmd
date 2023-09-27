@@ -1,5 +1,6 @@
 ---
-title: "**Conceitos básicos de toxicologia**"
+title: "**Periculosidade dos agentes químicos**"
+author: "Tiago Dias"
 lang: pt-BR
 format: 
     revealjs:
@@ -8,7 +9,7 @@ format:
         height: 900
         self-contained: false
         incremental: false
-        footer: "DAD/PROPESSOAS/UFG"
+        footer: "DAD/PROPESSOAS/UFG - Set/2023"
         theme: ["custom.scss"]
         slide-number: c/t
         show-slide-number: all
@@ -16,126 +17,445 @@ format:
         preview-links: false
 ---
 
-## Objetivos
+# Laboratórios químicos apresentam perigos {background="#003366"}
 
--   Explorar os conceitos básicos: toxicologia, agente tóxico, toxicidade
--   Diferenciar os termos: agente tóxico, toxina e veneno
--   Explicar as Condições e as Características da exposição e como essas condições interferem na expressão da toxicidade
--   Abordar os principais fatores intervenientes na expressão da toxicidade que são: Magnitude, duração e frequência de exposição
+## Perigos Químicos {.smaller}
 
-## O que é toxicologia?
+> As mesmas propriedades químicas que valorizamos nas substâncias podem torná-las perigosas
 
--   Toxicologia é uma ciência
-    -   Finalidade de estudo
-    -   Objeto de estudo
-    -   Métodos próprios
+::: {.incremental}
+- **Exemplo: Solventes orgânicos**
+:::
 
-![](imagens/1.png){width="526"}
+::: columns
+::: {.column width="50%" .incremental}
+- ![**Dissolvem bem moléculas orgânicas**](imagens/paste-7.png){width="800"}
+:::
 
-## Objeto de estudo da toxicologia
+::: {.column width="50%" .incremental}
+- ![**Ressecam a pele**](imagens/paste-8.png){width="600"}
+:::
+:::
 
--   O objeto de estudo da toxicologia não é a substância química ou o agente físico propriamente dito, mas sim, em que condições de exposição, essas substâncias ao interagirem com o sistema biológico elas levam ao aparecimento de um efeito tóxico/efeito adverso/efeito deletério
+## Perigos Químicos {.smaller}
 
-    ![](imagens/2.png){width="493"}
+> As mesmas propriedades químicas que valorizamos nas substâncias podem torná-las perigosas
 
-## Não existe substância inócua
+::: {.incremental}
+- **Exemplo: Ácidos e bases**
+:::
+
+::: columns
+::: {.column width="50%" .incremental}
+- ![Promovem mudanças químicas de interesse](imagens/paste-6.png){width="700"}
+:::
+
+::: {.column width="50%" .incremental}
+- ![Perigosos em contato com a pele ou se ingeridos](imagens/paste-5.png){width="700"}
+:::
+:::
+
+## Perigos Químicos {.smaller}
+
+> As mesmas propriedades químicas que valorizamos nas substâncias podem torná-las perigosas
+
+::: {.incremental}
+- **Exemplo: Nitrogênio líquido**
+:::
+
+::: columns
+
+::: {.column width="50%" .incremental}
+- ![Permite o uso do frio em procedimentos laboratoriais](imagens/paste-4.png){width="700"}
+:::
+
+::: {.column width="50%" .incremental}
+- ![ Risco de queimaduras da pele por congelamento](imagens/paste-3.png){width="350"}
+:::
+:::
+
+## Perigos Químicos {.smaller}
+
+> As mesmas propriedades químicas que valorizamos nas substâncias podem torná-las perigosas
+
+::: {.incremental}
+- **Exemplo: Gás**
+:::
+
+::: columns
+::: {.column width="50%" .incremental}
+- ![Permite o uso de fogo nos procedimentos](imagens/paste-2.png){width="700"}
+:::
+
+::: {.column width="50%" .incremental}
+- ![Risco de explosão](imagens/paste-1.png){width="700"}
+:::
+:::
+
+
+## Perigo
+- Fonte potencial de perdas ou danos.
+
+>  Se os riscos químicos não forem reconhecidos, eventos inesperados que resultem em ferimentos pessoais e/ou danos à propriedade podem ocorrer.
+
+## Risco
+
+- Combinação de 3 fatores:
+    - Probabilidade de ocorrência de um incidente indesejado
+    - Frequência da exposição ao perigo
+    - Gravidade das consequências
+     
+> O fato de um produto químico poder ter um perigo inerente não significa que não possamos utilizá-lo em laboratório. No entanto, um perigo não controlado apresenta riscos aumentados, que podem ser perigosos. 
+
+## Paradoxo dos Perigos Químicos {.smaller}
+
+::: columns
+::: {.column width="70%"}
+- As propriedades que tornam um produto químico útil são muitas vezes aquelas que o tornam arriscado de usar.
+- Devemos aprender a usar com segurança produtos químicos 
+
+> Embora muitos produtos químicos tenham perigos, a maioria não apresenta risco em nossas vidas diárias com o uso normal, porque aprendemos a reconhecer os perigos e minimizar seus riscos.
+
+> Para aprender a manusear produtos químicos corretamente, devemos primeiro ser capazes de identificar e entender os perigos presentes.
+:::
+
+::: {.column width="30%"}
+![](./img/15.png)
+:::
+:::
+
+## O risco de usar produtos não avaliados
+
+::: columns
+::: {.column width="50%"}
+![](img/4ba8faee1871793782a169a5eb841716.png)
+:::
+
+::: {.column width="50%"}
+- Fração pequena de produtos avaliados
+- Baixa exposição para o consumidos comum
+- Risco maior para os trabalhadores de laboratórios
+    - Uso de produtos não avaliados ou parcialmente avaliados
+    - Medidas para minimizar os riscos ausentes
+:::
+:::
+
+## Recomendações para evitar incidentes
+
+- Necessidade de compreender as características perigosas dos produtos químicos com os quais você vai trabalhar. 
+
+- Como conhecer as características perigosas de tantos produtos químicos diferentes? 
+
+    - Resposta: classificação
+    
+        - As características perigosas de todos os produtos químicos podem ser classificadas em apenas algumas classes.
+
+## Grandes classes de periculosidade para produtos químicos
+
+- ### Toxicidade
+
+- ### Inflamabilidade
+
+- ### Corrosividade
+
+- ### Reatividade
+
+
+> Pode-se trabalhar com segurança com qualquer produto químico **se os perigos forem conhecidos e o risco for compreendido e minimizado ou eliminado.**
+
+# Toxicidade {background="#43464B"}
+
+## Toxicidade: Substâncias Tóxicas
+
+- Substâncias químicas que podem causar danos a um organismo vivo. 
+
+::: {.callout-tip}
+*Os tóxicos derivados de fontes biológicas são conhecidos como toxinas.*
+:::
+
+::: {.callout-note}
+- Com exceção das respostas alérgicas, os efeitos tóxicos da exposição a um produto químico dependem da gravidade da exposição. 
+
+- Geralmente, quanto maior ou mais frequente a exposição, mais grave é o resultado. 
+
+- Consequentemente, os danos podem ser reduzidos mantendo as exposições ao mínimo.
+:::
+
+## Não existe substância inócua {.smaller}
+
+::: columns
+::: {.column width="35%"}
+> Mesmo substâncias com baixa toxicidade podem levar a um efeito nocivo
 
 -   Até água mata
     -   Elevada ingestão de água dilui os eletrólitos no sangue (principalmente sódio)
     -   Fluidos extracelulares migram para o interior da célula (edema)
         -   Edema cerebral
+:::
 
-![](imagens/3.png){width="538"}
-
--   Mesmo substâncias com baixa toxicidade podem levar a um efeito nocivo
+::: {.column width="65%"}
+![](imagens/3.png){width="800"}
+:::
+:::
 
 ## Toxicologia
 
 -   É a ciência que estuda os **efeitos nocivos** decorrentes das interações de substâncias químicas/agentes físicos com sistemas biológicos
--   Como resultado dessa interação teremos como resultado, a observação do efeito tóxico, dependendo das condições de exposição
+-   Como resultado dessa interação teremos a observação do efeito tóxico, dependendo das condições de exposição
 
 ![](imagens/4.png){width="743"}
 
-## Triade clássica
+## Triade da toxicologia
 
--   A tríade clássica que sustenta essa ciência é composta por
+::: columns
+::: {.column width="60%"}
+-   A tríade que sustenta essa ciência é composta por
     -   Agente tóxico
     -   Toxicidade
     -   Intoxicação
--   Estes três princípios são estudados com a finalidade
+-   Estes três princípios são estudados com a finalidade de
     -   Prevenir a intoxicação
         -   Se a prevenção falhar
             -   Diagnosticar
             -   Tratar
+:::
 
-![](imagens/5.png){width="294"}
+::: {.column width="40%"}
+- ![](imagens/5.png){width="600"}
+:::
+:::
 
 ## Agente tóxico ou toxicante
 
 -   Agente químico ou físico capaz de causar dano a um sistema biológico, alterando seriamente uma função ou levando-o à morte, sob determinadas **condições de exposição**.
     -   O que determina o aparecimento do efeito tóxico, como resultado da interação entre a substância química e o sistema biológico são as condições de exposição em que essa interação ocorre
 
-## Agente tóxico x toxina x veneno
-
-### Toxinas
+## Toxinas
 
 -   Peptídeos e proteínas específicas produzidas por **organismos vivos** (fungos, bactérias), as quais, em geral, promovem um efeito imediato sobre o receptor
 -   Exemplo: aflatoxinas produzidas por fungos do gênero *Aspergillus* que crescem em grãos, dependendo das condições de umidade e temperatura local e podem promover um dano sobre o animal ou sobre o homem que consome esse alimento
 
-![](imagens/6.png){width="593"}
+![](imagens/6.png){width="700"}
 
-### Veneno
+## Veneno
 
--   É um agente tóxico que altera ou destroi as funções vitais e, segundo alguns autores, o termo é reservado especificamente para designar **substâncias provenientes de animais**, onde teriam importantes funções de autodefesa ou de predação
+- É um agente tóxico que altera ou destroi as funções vitais e, segundo alguns autores, o termo é reservado especificamente para designar **substâncias provenientes de animais**, onde teriam importantes funções de autodefesa ou de predação
     -   Veneno de cobra, de abelha, de aranha, etc
 
-### Toxicidade
+## Toxicidade {.smaller}
 
--   Propriedade **inerente** a um agente tóxico em promover um efeito deletério no organismo
-    -   Capacidade intrínseca a esse agente tóxico
+- Propriedade **inerente** a um agente tóxico em promover um efeito deletério no organismo
+   - Capacidade intrínseca a esse agente tóxico
 
 ### A expressão da toxicidade depende:
 
--   Condições de exposição
--   Comportamento no sistema biológico/ambiente
+- Condições de exposição
+- Comportamento no sistema biológico/ambiente
+- Características/condições da **exposição**
+- Propriedades físico-químicas
+- **Magnitude, duração e frequência da exposição**
+- Via de introdução
+- Suscetibilidade dos sistemas biológicos
 
-### A expressão da toxicidade depende
-
--   Características/condições da **exposição**
--   Propriedades físico-químicas
--   **Magnitude, duração e frequência da exposição**
--   Via de introdução
--   Suscetibilidade dos sistemas biológicos
-
-> Com relação à magnitude, duração e frequência da exposição, precisamos conceituar **dose**
-
-### Conceito de dose
+## Conceito de dose
 
 -   Dose é a quantidade total de substância a que o organismo foi/está exposto
 
-> "Todas as substâncias são venenos. A dose correta diferencia o veneno do remédio" (Paracelsus, 1493-1541)
-
+::: columns
+::: {.column width="20%"}
 ![](imagens/7.png)
+:::
 
-Paracelsus
+::: {.column width="80%"}
+> "Todas as substâncias são venenos. A dose correta diferencia o veneno do remédio" (Paracelsus, 1493-1541)
+:::
+:::
 
--   Para caracterizar a dose de exposição, é necessário conhecer, além da quantidade, a frequência, e a duração da exposição
+- Para caracterizar a dose de exposição, é necessário conhecer, além da quantidade, a frequência, e a duração da exposição
 
-### Exemplos de efeitos tóxicos de substâncias comuns
+## Exemplos de efeitos tóxicos de substâncias comuns
+
+> O efeito tóxico é função da dose
 
 ![](imagens/8.png){width="528"}
 
--   O efeito tóxico é função da dose
-
-### Exemplo: correlação entre magnitude e duração da exposição ao CO, e efeito tóxico
+## Exemplo: correlação entre magnitude e duração da exposição ao CO, e efeito tóxico
 
 ![](imagens/9.png)
 
-### Resumo deste tópico
+## Toxicidade: *Vias de Entrada/Exposição*
 
--   Os efeitos tóxicos são objeto de estudo da toxicologia e não a substância química.
--   Agente tóxico/toxicante é qualquer substância química ou agente físico capaz de promover um efeito nocivo ao interagir com um sistema biológico, em determinadas condições de exposição.
--   Toxicidade é uma propriedade inerente ao toxicante e, se expressa dependendo das condições de exposição e das transformações ocorridas no sistema biológico ou no ambiente.
--   Dentre as condições de exposição, a dose é o principal fator interveniente na expressão da toxicidade.
--   Dose é a quantidade de substância a que o sistema biológico foi exposto.
--   Para caracterizar a dose de exposição, além da quantidade da substância, é necessário conhecer a frequência e duração.
+**Existem quatro maneiras pelas quais os produtos químicos podem entrar no corpo:**
+
+- **Inalação**
+
+- **Ingestão**
+
+- **Absorção**
+
+- **Injeção**
+
+## *Grupos de produtos químicos conhecidos por provocar efeitos tóxicos*
+
+::: {.incremental}
+- **Alérgenos:** agentes que produzem uma reação imunológica
+    - **Sensibilizante** se provoca uma resposta alérgica em uma população significativa.
+
+- **Lacrimadores:** causam lacrimejamento dos olhos devido ao seu profundo efeito sobre as glândulas lacrimais. 
+
+- **Solventes orgânicos:** podem penetrar na pele intacta e são facilmente inalados
+
+- **Metais pesados:** têm inúmeros efeitos toxicológicos conhecidos. 
+
+- **Asfixiantes** são substâncias que têm a capacidade de privar o corpo de oxigênio. 
+:::
+
+# Inflamabilidade {background="#43464B"}
+
+## Solventes
+
+**Os solventes orgânicos podem ser divididos em três grandes grupos:**
+
+- **Hidrocarbonetos:** contêm apenas hidrogênio e carbono (hidrocarbonetos)
+- **Solventes oxigenados:** contêm oxigênio (solventes oxigenados)
+- **Halogenados:** contêm halogênios (Fluor, Cloro, Bromo, Iodo)
+
+::: {.callout-note}
+Muitos (mas não todos) dos solventes halogenados (por exemplo, cloreto de metileno, tetracloreto de carbono e clorofórmio) não são inflamáveis, mas são bastante tóxicos. Hidrocarbonetos (por exemplo, hexano, tolueno e xileno) e solventes orgânicos oxigenados (por exemplo, metanol, éter dietílico e acetona) são tipicamente muito inflamáveis. 
+::: 
+
+## Observações sobre os solventes {.smaller}
+
+::: {.incremental}
+- Um líquido inflamável em si não pode queimar
+    - É o vapor (a forma gasosa do produto químico) do líquido que queima. 
+    - Um líquido inflamável é mais perigoso em temperaturas elevadas
+    
+- Muitos vapores de solventes orgânicos são mais densos que o ar e podem viajar para uma fonte de ignição
+    - Ao derramar um solvente inflamável, também estamos despejando os vapores invisíveis e inflamáveis,
+    - Se houver uma fonte de ignição próxima, os vapores podem se inflamar em um incêndio relâmpago.
+
+- Todos os líquidos e sólidos inflamáveis devem ser mantidos longe de oxidantes e do contato com fontes de ignição, como placas aquecedoras.
+
+- Solventes orgânicos inflamáveis devem ser armazenados à temperatura ambiente num armário próprio para inflamáveis.
+::: 
+
+## *Sólidos inflamáveis*
+
+::: {.incremental}
+- Sólidos inflamáveis, diferentemente dos pirofóricos, requerem uma fonte de ignição. 
+- Muitos metais comumente usados em laboratórios de ensino, como ferro, magnésio, cálcio e alumínio, são inflamáveis. 
+- Quanto mais finamente dividido for o material, maior o risco. 
+- Incêndios metálicos inflamáveis são fáceis de iniciar e difíceis de extinguir
+- Nunca descarte produtos químicos em lixeiras
+:::
+
+# Corrosividade {background="#43464B"}
+
+## *Corrosivos*
+
+- Corrosão é a destruição gradual resultante da ação de um produto químico sobre o metal ou tecido vivo.
+- São corrosivos:
+    - Todos os ácidos fortes: ácido clorídrico, ácido sulfúrico e ácido nítrico
+    - Todas as bases fortes: hidróxido de sódio e hidróxido de potássio
+    - Alguns ácidos fracos: ácido acético, ácido carbônico e ácido fosfórico
+    - Algumas bases fracas: hidróxido de amônio
+    - Algumas bases ligeiramente solúveis: hidróxido de cálcio
+
+::: {.callout-note}
+Mesmo uma exposição aguda a um produto químico corrosivo pode destruir irreversivelmente o tecido vivo. Seus olhos são particularmente vulneráveis. Quanto mais concentrado o ácido ou base e/ou quanto maior o contato, maior a destruição. 
+:::
+
+## Ácidos
+
+::: {.incremental}
+- Ao diluir soluções concentradas de ácidos, você deve sempre se lembrar de **adicionar lentamente o ácido à água enquanto agita a mistura**
+
+- Além da corrosividade, muitos dos ácidos comuns de laboratório têm outras características perigosas. 
+ - Soluções aquosas de todos os haletos de hidrogênio (HF, HCl, HBr e HI) são tóxicas
+    - Os vapores destes ácidos são irritantes respiratórios graves.
+
+- O ácido sulfúrico concentrado é um agente desidratante muito forte
+
+- O ácido nítrico também é um forte agente oxidante. Geralmente reage mais rapidamente do que o ácido sulfúrico. 
+:::
+
+## Bases
+
+- O hidróxido de sódio e o hidróxido de potássio são bases alcalinas fortes e são extremamente destrutivos para a pele e os olhos. 
+- Os vapores de soluções aquosas de amônia são irritantes e tóxicos. 
+- Soluções aquosas de amônia são particularmente prejudiciais aos olhos.
+
+::: {.callout-note}
+**Bases fortes** são todas corrosivas e podem causar queimaduras químicas graves e destrutivas, incluindo cegueira se espirradas nos olhos.
+:::
+
+# Reatividade {background="#43464B"}
+
+## Reatividade descontrolada é preocupante
+
+::: {.incremental}
+- A reatividade é uma propriedade importante das substâncias químicas
+- A preocupação é quando uma reação química sai do controle
+- Nem toda reatividade é baseada na reação de um produto químico com outro
+    - Alguns produtos químicos são auto-reativos, e outros são instáveis e se decompõem vigorosamente se perturbados.
+:::
+    
+## Reatividade do Ácido Nítrico - NÃO ADICIONE SOLVENTES ORGÂNICOS
+
+- Numerosos incidentes envolvendo ácido nítrico ocorrem a cada ano em laboratórios acadêmicos. 
+- Ocorrem reações muito energéticas que ocorrem entre o ácido nítrico e materiais orgânicos comuns, como álcool etílico e acetona, e que podem resultar em explosões.
+
+::: {.callout-warning}
+NUNCA misture ácido nítrico com solventes orgânicos. A maioria dos incidentes relatados envolve recipientes de resíduos rotulados incorretamente ou usuários que não estão cientes desse perigo e misturam os dois em um contêiner de resíduos - uma receita para o desastre. Nunca use areia de gato orgânico para limpar um derramamento de ácido nítrico.
+:::
+
+## Oxidantes
+
+- Substâncias que podem fornecer oxigênio em uma reação ou podem ser reduzidas (ganhar elétrons), facilitando assim a oxidação (perda de elétrons) de outra substância. 
+
+- Exemplos: sais metálicos de nitratos, permanganato de potássio, peróxido de hidrogênio, bromo, ácido sulfúrico e ácido nítrico. 
+
+::: {.callout-warning}
+De particular preocupação com os agentes oxidantes é o armazenamento adequado. Eles devem sempre ser armazenados separadamente de qualquer produto químico ou material que possa ser oxidado. Isso inclui não armazenar garrafas em prateleiras de madeira ou com solventes inflamáveis.
+:::
+
+## Solventes Formadores de Peróxidos
+
+::: {.incremental}
+- Peróxidos são compostos que contém dois átomos de oxigênio unidos com uma única ligação (-O-O-). 
+ - Exemplo: peróxido de hidrogênio. 
+ 
+ - Nos peróxidos orgânicos, um ou ambos os átomos de hidrogênio foram substituídos por um grupo orgânico. 
+ 
+ - Todos os peróxidos são reativos, mas os peróxidos orgânicos são particularmente assim porque apresentam problemas de estabilidade incomuns. 
+ 
+ - Alguns solventes **podem formar peróxidos instáveis ao longo do tempo quando expostos ao ar ou à luz.**
+:::
+
+## Solventes Formadores de Peróxidos
+
+:::{.incremental}
+- Solventes que formam peróxidos são particularmente perigosos se forem evaporados perto da secura. 
+- Não mova ou abra recipientes velhos de solventes orgânicos se você encontrá-los.
+- Todos os peróxidos orgânicos são extremamente inflamáveis, e alguns são sensíveis a choques e explosivos. 
+- Fique atento se você vir cristais ao redor da tampa ou cristais em um solvente orgânico.
+:::
+
+## Substâncias particularmente perigosas
+
+:::{.incremental}
+- **Ácido perclórico:** É um agente oxidante muito poderoso a temperaturas elevadas, e pode reagir explosivamente com compostos orgânicos e outros agentes redutores.
+
+- **Ácido pícrico:** Tem estrutura química semelhante à do trinitrotolueno (TNT). Este ácido deve permanecer sempre molhado, porque o ácido pícrico seco é explosivo.
+
+- **Materiais pirofóricos:** são altamente reativos e perigosos, mesmo em pequenas quantidades, porque são suscetíveis de inflamar muito rapidamente 
+    - Exemplos: Solução de terc-butillítio, e alguns pós metálicos muito finos (por exemplo, magnésio).
+:::
+
+## Materiais sensíveis ao choque e ao atrito
+- Alguns produtos químicos bem conhecidos nesta classe (amplamente declarados) são azidas metálicas, sais de perclorato e peróxidos orgânicos. O uso desses materiais deve ser controlado.
+
+# Perguntas, sugestões, críticas? {background="#43464B"}
+
+# Muito obrigado! Tenham um ótimo dia! {background="#003366"}

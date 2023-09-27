@@ -1,9 +1,7 @@
 ---
 title: "**Agentes Químicos e Biológicos**"
 subtitle: "Novos saberes e olhares"
-author: "Tiago Dias"
-date: 27/sep/2023
-date-format: MMM/YYYY
+author: "Adriana Andrade </br> Elaine Jacob </br> Fábio Neves </br> Renan Mendes </br> Tiago Dias"
 lang: pt-BR
 format: 
     revealjs:
@@ -12,7 +10,7 @@ format:
         height: 900
         self-contained: false
         incremental: false
-        footer: "DAD/PROPESSOAS/UFG"
+        footer: "DAD/PROPESSOAS/UFG - Set-Out/2023"
         theme: ["custom.scss"]
         slide-number: c/t
         show-slide-number: all
@@ -279,7 +277,7 @@ Usar roupas que sejam não-sintéticas e ajustadas minimiza o risco de ferimento
 
 # O uso do sistema RAMP contribui para uma **cultura de segurança** baseada em **riscos** e não em **regras**
 
-## 3. Cultura de Segurança
+## Cultura de Segurança
 
 **O que é uma Cultura Compartilhada de Segurança?**
 
@@ -341,8 +339,10 @@ Usar roupas que sejam não-sintéticas e ajustadas minimiza o risco de ferimento
 
 -   Quando os trabalhadores de laboratório podem reconhecer perigos, estimar riscos e identificar medidas para minimizar esses riscos, eles respondem a novos perigos e situações de maneira previsível, segura e mais competente.
 
-## Exercício de Aprendizado 1: Arraste cada item abaixo para a caixa apropriada na parte inferior.
+## Resumindo
 
+::: columns
+::: {.column width="50%"}
 ### Cultura baseada em risco
 
 -   Pesquisadores educados para minimizar o risco
@@ -350,64 +350,24 @@ Usar roupas que sejam não-sintéticas e ajustadas minimiza o risco de ferimento
 -   Colaboração favorecida em vez de fiscalização
 -   Ênfase na redução do risco
 -   Menos políticas, mais gerais
+:::
 
+::: {.column width="50%"}
 ### Cultura baseado em regras
 
 -   Pesquisadores treinados em requisitos
 -   Muitas políticas de segurança
 -   Ênfase na conformidade com leis e regulamentos
 -   Muitas inspeções de laboratório
-
-## Autoavaliação 1: Perigos, Riscos e Cultura de Segurança
-
-### Questão 1 - Associe as seguintes características a uma cultura de segurança baseada em regras (RULE) ou a uma cultura de segurança baseada em risco (RISK).
-
-a.  Depende da obediência às regras = RULE
-
-b.  As regras são estabelecidas por um órgão externo = RULE
-
-c.  As regras são estabelecidas por uma seguradora = RULE
-
-d.  As regras são vistas como um obstáculo às operações de laboratório = RULE
-
-e.  As regras são acordadas coletivamente pelo grupo de laboratório = RISK
-
-f.  As regras são estabelecidas por um nível de tolerância ao risco = RISK
-
-g.  As regras são baseadas no julgamento individual = RISK
-
-### Questão 2 - Associe as seguintes características a uma cultura de segurança baseada em regras (RULE) ou a uma cultura de segurança baseada em risco (RISK).
-
-a.  Dependência de muitas políticas de segurança = RULE
-
-b.  Dependência de numerosas inspeções = RULE
-
-c.  Os estudantes são educados em ciência de segurança = RISK
-
-d.  A cultura é percebida como um obstáculo às operações de laboratório =
-
-RULE
-
-e.  Diretrizes são acordadas coletivamente e continuamente melhoradas pelo grupo de laboratório = RISK
-
-f.  Requer mais fiscalização = RULE
-
-g.  Ensina conceitos que podem ser adaptados a novas situações = RISK
-
-h.  Concentra-se na comunidade do laboratório = RISK
+:::
+:::
 
 ## Relembrando os conceitos {background="#003366"}
 
 ::: incremental
--   
-
-    ### Risco x Perigo
-
--   
-
-    ### Sistema de segurança RAMP
-
--   
-
-    ### Cultura de Regras x Cultura de Riscos
+- ### Risco x Perigo
+- ### Sistema de segurança RAMP
+- ### Cultura de Regras x Cultura de Riscos
 :::
+
+# Perguntas, sugestões, críticas? {background="#43464B"}

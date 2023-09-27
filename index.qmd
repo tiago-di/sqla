@@ -1,7 +1,6 @@
 ---
 title: "Agentes Químicos e Biológicos - Novos Saberes e Olhares"
-subtitle: "Novos saberes e olhares"
-author: Tiago Dias
+author: "Tiago Dias"
 description: DAD/PROPESSOAS/UFG
 date: 27/Sep/2023
 date-format: DD/MMM/YYYY
@@ -12,5 +11,6 @@ lang: pt-Br
 
 ## Slides
 
- - ### [Seção 1](section1.qmd)
- - ### [Seção 2](section2.qmd)
+- ### 27/set
+    - #### [Seção 1](section1.qmd)
+    - #### [Seção 2](section2.qmd)
