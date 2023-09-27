@@ -352,7 +352,7 @@ Muitos (mas não todos) dos solventes halogenados (por exemplo, cloreto de metil
 
 # Corrosividade {background="#43464B"}
 
-## *Corrosivos*
+## Corrosivos {.smaller}
 
 - Corrosão é a destruição gradual resultante da ação de um produto químico sobre o metal ou tecido vivo.
 - São corrosivos:
