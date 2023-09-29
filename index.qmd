@@ -15,4 +15,7 @@ lang: pt-Br
 
     - #### [Seção 1](section1.qmd)
     - #### [Seção 2](section2.qmd)
+
+- ### 29/set
+    - #### [Seção 1](section3.qmd)
     
