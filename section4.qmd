@@ -1,0 +1,427 @@
+---
+title: "**Agentes Químicos e Biológicos**"
+subtitle: "Novos saberes e olhares"
+author: "Adriana Andrade </br> Elaine Jacob </br> Fábio Neves </br> Renan Mendes </br> Tiago Dias"
+lang: pt-BR
+format: 
+    revealjs:
+        logo: "imagens/logo_ufg.png"
+        width: 1600
+        height: 900
+        self-contained: false
+        incremental: false
+        footer: "DAD/PROPESSOAS/UFG - Set-Out/2023"
+        theme: ["custom.scss"]
+        slide-number: c/t
+        show-slide-number: all
+        hash-type: number
+        preview-links: false
+---
+
+# GHS - Sistema Globalmente Harmonizado de comunicação de perigos {background="#003366"}
+
+## Introdução
+
+O Sistema Globalmente Harmonizado de Classificação e Rotulagem de Produtos Químicos (GHS) foi desenvolvido pelas Nações Unidas ao longo de mais de uma década. O documento é regularmente revisado e atualizado uma vez a cada 2 anos para refletir novas experiências nacionais, regionais e internacionais no campo da comunicação de perigos.
+
+## Propósito
+
+-   Reforçar a proteção da saúde humana e do ambiente, fornecendo um sistema internacionalmente compreensível de comunicação dos perigos que permita
+    -   Classificação e rotulagem harmonizadas
+    -   Segurança no trabalho harmonizada
+    -   Fichas de dados de segurança harmonizadas
+    -   Protecão harmonizada dos consumidores
+    -   Classificação harmonizada dos transportes
+-   Reduzir a necessidade de ensaios e avaliação de produtos químicos e facilitar o comércio internacional de produtos químicos cujos perigos tenham sido devidamente avaliados a nível internacional.
+
+## Âmbito
+
+GHS abrange, entre outros, os seguintes elementos:
+
+-   Critérios harmonizados para a classificação das substâncias e misturas em função dos seus perigos para a saúde, o ambiente e os aspectos físicos
+-   Elementos harmonizados de comunicação de perigos, incluindo requisitos de rotulagem e fichas de dados de segurança.
+
+## Parte 1: Os elementos essenciais da comunicação dos perigos
+
+1.  Classe de perigo
+2.  Categoria de perigo
+3.  Palavra de advertência
+4.  Pictograma
+5.  Frases de perigo
+6.  Frases de precaução
+
+## 1. Classe de perigo
+
+A classe de perigo descreve a natureza do perigo físico, para a saúde ou para o ambiente, por exemplo, líquidos inflamáveis, toxicidade aguda, oral.
+
+## Perigos físicos {.smaller}
+
+::: columns
+::: {.column width="50%"}
+-   Explosivos
+-   Gases inflamáveis
+-   Aerossóis
+-   Gases oxidantes
+-   Gases sob pressão
+-   Líquidos inflamáveis
+-   Sólidos inflamáveis
+-   Substâncias e misturas auto-reativas
+:::
+
+::: {.column width="50%"}
+-   Líquidos pirofóricos
+-   Sólidos pirofóricos
+-   Substâncias e misturas que, em contato com a água, emitem gases inflamáveis
+-   Líquidos oxidantes
+-   Sólidos oxidantes
+-   Peróxidos orgânicos
+-   Corrosivo para metais
+-   Explosivos dessensibilizados
+:::
+:::
+
+## Perigos à saúde {.smaller}
+
+-   Toxicidade aguda
+-   Corrosão/irritação cutânea
+-   Lesões oculares graves/irritação ocular
+-   Sensibilização respiratória ou cutânea
+-   Mutagenicidade das células germinativas
+-   Carcinogenicidade
+-   Toxicidade reprodutiva
+-   Toxicidade para órgãos-alvo específicos -- exposição única
+-   Toxicidade para órgãos-alvo específicos -- exposição repetida
+-   Risco de aspiração
+
+## Perigos ambientais
+
+-   Perigoso para o ambiente aquático
+-   Perigoso para a camada de ozônio
+
+## 2. Categoria de perigo
+
+A categoria de perigo define a divisão de critérios dentro de cada classe de perigo,
+
+**Exemplo:** "líquidos inflamáveis" inclui quatro categorias de perigo e "toxicidade aguda oral" inclui cinco categorias de perigo.
+
+## 3. Palavra de advertência
+
+A palavra de advertência indica o nível relativo de gravidade de um perigo e alerta o leitor para um perigo potencial no rótulo. Distinguem-se os dois níveis seguintes:
+
+-   "Perigo" é uma palavra de advertência que indica as categorias de perigo mais graves
+-   "Atenção" é uma palavra de advertência que indica as categorias de perigo menos graves
+
+## 3. Palavra de advertência
+
+**Exemplo:**
+
+Classe de perigo: **Líquidos inflamáveis**
+
+| Critérios de classificação                                    | Categoria de perigo | Palavra de advertência |
+|-------------------------------------|------------------|------------------|
+| Ponto de fulgor \< 23 °C e ponto de ebulição inicial ≤ 35 °C  | 1 (mais grave)      | Perigo                 |
+| Ponto de fulgor \< 23 °C e ponto de ebulição inicial \> 35 °C | 2 (mais grave)      | Perigo                 |
+| Ponto de fulgor ≥ 23 °C e ≤ 60 °C                             | 3 (menos grave)     | Atenção                |
+| Ponto de fulgor \> 60 °C e ≤ 93 °C                            | 4 (menos grave)     | Atenção                |
+
+## 3. Palavra de advertência
+
+**Exemplo:**
+
+Classe de perigo: **toxicidade aguda, oral (mg/kg de peso corporal)**
+
+| Critérios de classificação | Categoria de perigo | Palavra de advertência |
+|----------------------------|---------------------|------------------------|
+| ≤ 5                        | 1 (mais grave)      | Perigo                 |
+| \> 5 - ≤ 50                | 2 (mais grave)      | Perigo                 |
+| \> 50 - ≤ 300              | 3 (mais grave)      | Perigo                 |
+| \> 300 - ≤ 2000            | 4 (menos grave)     | Atenção                |
+| \> 2000 - ≤ 5000           | 5 (menos grave)     | Atenção                |
+
+> **Quanto menor o número da categoria de perigo, mais grave é o perigo.**
+
+## 4. Pictograma de Perigo
+
+![](img/1256d73ac2e88d42562f735dbe33b479.png)
+
+## Pictograma
+
+Um pictograma é uma composição gráfica que pode incluir um símbolo mais outros elementos gráficos, como uma borda, padrão de plano de fundo ou cor que se destina a transmitir informações específicas.
+
+## Símbolo
+
+Um **símbolo** é um elemento gráfico destinado a transmitir informações de forma sucinta.
+
+Todos os **pictogramas de perigo** utilizados no GHS devem estar na forma de um quadrado, colocado em um ângulo de 45° (forma de losango).
+
+![](img/d88333f93d43fcbdbc5ee8d213fa5a06.png){fig-align="center"}
+
+## 5. Frases de perigo
+
+Uma **frase** de perigo é uma declaração atribuída a uma classe e categoria de perigo que descreve a natureza dos perigos de um produto perigoso, incluindo, se for caso disso, o grau de perigo.
+
+-   Codificação das frases de perigo: código alfanumérico único que consiste em uma letra e três números
+-   A letra "H" para a advertência de perigo
+-   Um número que designa o tipo de perigo:
+    -   "2" para riscos físicos
+    -   "3" para riscos para a saúde
+    -   "4" para riscos ambientais
+
+## 5. Frases de perigo
+
+![](img/4565c26d840c34c636c03405cb1d22fe.png)
+
+Os códigos das frases de perigo destinam-se a ser utilizados apenas para fins de referência. Não fazem parte do texto da advertência de perigo.
+
+## 6. Frases de precaução {.smaller}
+
+::: columns
+::: {.column width="60%"}
+Uma **frase de precaução** é uma frase que descreve as medidas recomendadas que devem ser tomadas para minimizar ou prevenir os efeitos adversos resultantes da exposição a um produto perigoso ou do armazenamento ou manuseio inadequados de um produto perigoso.
+
+-   Codificação das frases de precaução: código alfanumérico único que consiste em uma letra e três números
+-   A letra "P" para frase de precaução
+-   Um número que designa o tipo de frase de precaução:
+    -   **1** para as frases gerais
+    -   **2** para frases de precaução de prevenção
+    -   **3** para frases de precaução de resposta à emergência
+    -   **4** para frases de precaução de armazenamento
+    -   **5** para frases de precaução de destinação final
+:::
+
+::: {.column width="40%"}
+![](img/a76fe8ed2e6809ce997688a973145585.png) \> Os códigos P das frases de precaução destinam-se a ser utilizados apenas para fins de referência. Eles não fazem parte do texto da frase de precaução.
+:::
+:::
+
+# Teste de aprendizagem {background="#43464B"}
+
+## Questão 1
+
+### Que pictogramas relativos à comunicação de perigos fazem parte do GHS?
+
+![](img/23b839d8e8b08b511c641eddbd51e3f6.png)
+
+## Questão 2
+
+### Quais classes de perigo o GHS cobre?
+
+## Questão 3
+
+### O que significa uma atribuição na categoria de perigo 1 para um líquido inflamável?
+
+## Questão 4
+
+### Qual o nome deste pictograma?
+
+![](img/30143ddbe53b23ab696720d8ab9fb7da.png){width="227" fig-align="center"}
+
+## Questão 5
+
+### Qual o nome deste pictograma?
+
+![](img/7b106cc208ea79f90c282b39f596a529.png){width="227" fig-align="center"}
+
+## Questão 6
+
+### Qual o nome deste pictograma?
+
+![](img/3b55245d6d768d35f5236d8a022bd9db.png){width="227" fig-align="center"}
+
+## Questão 7
+
+### Qual o nome deste pictograma?
+
+![](img/1452ca99c6b9c1f852b0a123a31950f7.png){width="227" fig-align="center"}
+
+## Questão 8
+
+### Qual o nome deste pictograma?
+
+![](img/b390a95a6b9500339a00bf4a3e805472.png){width="227" fig-align="center"}
+
+# Parte 2: Classificação de perigo e elementos relevantes do rótulo
+
+## Rótulos do GHS
+
+Uma substância ou mistura classificada como perigosa e contida na embalagem deve possuir um rótulo que inclua, entre outros, os seguintes elementos do rótulo, se for caso disso:
+
+1.  Todos os pictogramas de perigo relevantes para cada classificação específica
+2.  A palavra de advertência relevante "Perigo" ou "Atenção"
+3.  Todas as frases de perigo pertinentes de acordo com a classificação da substância ou mistura perigosa
+4.  Todas as frases de precaução relevantes
+5.  Identificador do produto
+6.  Informações do fornecedor
+
+## Rótulos do GHS
+
+**Exemplo:**
+
+Uma substância ou mistura é classificada como: **lesão ocular/irritação, categoria de perigo 1**
+
+Os seguintes elementos de rótulo devem aparecer no rótulo:
+
+![](img/3b55245d6d768d35f5236d8a022bd9db.png)
+
+Palavra de advertência: **Perigo**
+
+Frase de perigo**: H318**
+
+Frase de precaução: **P280; P305+P351+P338;**
+
+## Os pictogramas dos rótulos
+
+Os pictogramas estão ligados a classes de perigo definidas: ![](img/d7f742bc150dfb8b0456194a4d7d32e3.png){fig-align="center"}
+
+## Por exemplo, perigos à saúde {.smaller}
+
+![](img/1452ca99c6b9c1f852b0a123a31950f7.png){width="180"}</br>
+
+-   Toxicidade aguda (oral/dérmica/inalação), categoria de perigo 1, 2, 3 (mais grave)
+
+![](img/3b55245d6d768d35f5236d8a022bd9db.png){width="180"}</br>
+
+-   Corrosão/irritação cutânea, categoria de perigo 1, 1A, 1B, 1C (mais grave)
+
+-   Danos/irritação ocular grave, categoria de perigo 1 (mais grave)
+
+## Atenção
+
+O perigo físico "corrosivo para metais" também está ligado ao pictograma:
+
+![](img/3b55245d6d768d35f5236d8a022bd9db.png){width="157"}
+
+## Perigos à saúde (continuação)
+
+![](img/b21e44ce1521b6446156cbf25be65fbb.png){width="180"}
+
+-   Toxicidade para órgãos-alvo específicos (exposição única/repetida), categoria de perigo 1, 2 (mais grave)
+-   Sensibilização respiratória, categoria de perigo 1, 1A, 1B
+-   Carcinogenicidade, categoria de perigo 1A, 1B, 2 - Toxicidade reprodutiva, categoria de perigo 1A, 1B, 2 - Mutagenicidade das células germinativas, categoria de perigo 1A, 1B, 2 - Perigo de aspiração, categoria de perigo 1, 2
+
+## Perigos à saúde (continuação) {.smaller}
+
+![](img/806d894f2eff341cb547778ac56bc194.png){width="180"}
+
+- Toxicidade aguda (oral/dérmica/inalação), categoria de perigo 4 (menos grave) 
+- Corrosão/irritação cutânea, categoria de perigo 2 (menos grave)
+- Lesão ocular grave/irritação ocular categoria 2/2A (menos grave)
+- Toxicidade para órgãos-alvo específicos (exposição única) categoria de perigo 3 (menos grave)
+- Perigo de sensibilização cutânea categoria 1, 1A, 1B
+
+-   **Atenção:** o perigo ambiental "perigoso para a camada de ozônio" também está ligado a este pictograma
+
+## Elementos do rótulo
+
+Exemplo de disposições dos elementos do rótulo GHS:
+
+![](img/a39abbb5e0d1fa549f47b501a4bc377c.png){fig-align="center"}
+
+
+## As fichas de dados de segurança (FDS)
+
+- A ficha de dados de segurança (FDS) é o documento mais importante e aceito em relação à segurança do produto.
+
+- A FDS fornece informações abrangentes para o manuseio e uso seguros de produtos químicos, tornando-se um recurso essencial para empregadores e empregados. A implementação de todas as medidas de segurança e precaução descritas na SDS ajudará a proteger a saúde humana e o meio ambiente e garantirá um padrão de segurança satisfatório.
+
+> Leia a FDS com atenção e siga todos os conselhos!
+
+## As fichas de dados de segurança (FDS) {.smaller}
+
+As informações contidas na EDS devem ser apresentadas utilizando as seguintes 16 rubricas:
+
+::: columns
+::: {.column width="50%"}
+1.  Identificação
+2.  Identificação do(s) perigo(s)
+3.  Composição/informação sobre os ingredientes
+4.  Medidas de primeiros socorros
+5.  Medidas de combate a incêndios
+6.  Medidas de libertação acidental
+7.  Movimentação e armazenagem
+8.  Controlo da exposição/protecção individual
+9.  Propriedades físico-químicas e características de segurança
+:::
+
+::: {.column width="50%"}
+10. Estabilidade e reatividade
+11. Informações toxicológicas
+12. Informação ecológica
+13. Considerações sobre a eliminação
+14. Informações de transporte
+15. Informações regulatórias
+16. Outras informações
+:::
+:::
+
+## As fichas de dados de segurança (FDS)
+**Seguem-se alguns exemplos de informações relevantes fornecidas nas seguintes seções de uma FDS:**
+
+-   Seção 2: Identificação do(s) perigo(s)
+-   Seção 7: Manuseio e armazenamento
+-   Seção 8: Controle da exposição/proteção individual
+-   Seção 10: Estabilidade e reatividade
+
+## Seção 2: Identificação do(s) perigo(s) {.smaller}
+
+![](img/cac74cde2b0d87c9334f5fe92cdca491.png) 
+
+**O subponto 2.1** descreve todas as propriedades intrínsecas de uma substância ou mistura e a classificação relevante: 
+
+- Classe de perigo
+
+- Categoria de perigo 
+
+- Advertência de perigo
+
+## Seção 2: Identificação do(s) perigo(s)
+
+::: columns
+::: {.column width="50%"}
+![](img/23fe16fc25d42a90782ebb2f6355acef.png) 
+:::
+
+::: {.column width="50%"}
+**A subsecção 2.2** descreve a rotulagem de uma substância ou mistura derivada da classificação -- os elementos de informação/rótulo são idênticos aos elementos de informação/rótulo impressos no rótulo!
+:::
+:::
+
+## Seção 7: Manuseio e armazenamento
+
+::: columns
+::: {.column width="50%"}
+![](img/18bd09f0cfecb81469de7ff441d28c49.png) 
+:::
+
+::: {.column width="50%"}
+**A seção 7** fornece orientações sobre práticas de manuseio seguras que minimizam os perigos potenciais para as pessoas, propriedades e o meio ambiente decorrentes da substância ou mistura.
+:::
+:::
+
+## Seção 8: Controle da exposição/proteção individual
+
+::: columns
+::: {.column width="50%"}
+![](img/85fbceaf954268036b09c52aab27db3a.png) 
+:::
+
+::: {.column width="50%"}
+**A seção 8** transmite informações importantes sobre os controles de exposição e as medidas de proteção individual, tais como os equipamentos de protecção individual (EPI), em conformidade com as boas práticas de higiene profissional.
+:::
+:::
+
+## Seção 10: Estabilidade e reatividade
+
+::: columns
+::: {.column width="50%"}
+![](img/cbad31e21e184d4e3153f62f4cc4a330.png) 
+:::
+
+::: {.column width="50%"}
+**A secção 10** descreve a reatividade da substância ou mistura, dados de ensaio específicos ou informações baseadas em dados gerais para a classe ou família de produtos químicos, se esses dados representarem adequadamente o perigo previsto da substância ou mistura.
+:::
+:::
+
+# Perguntas, sugestões, críticas? {background="#43464B"}
+
+# Muito obrigado! Tenham um ótimo dia! {background="#003366"}
