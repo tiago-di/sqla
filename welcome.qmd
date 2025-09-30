@@ -1,8 +1,8 @@
 ---
-title: "**Agentes Químicos e Biológicos**"
-subtitle: "Novos saberes e olhares"
+title: "**Gestão de Riscos Químicos em Laboratórios Acadêmicos**"
+# subtitle: ""
 author: "Tiago Dias"
-date: 27/sep/2023
+date: 30/sep/2025
 date-format: MMM/YYYY
 lang: pt-BR
 format: 
@@ -36,15 +36,15 @@ format:
 
     - e-mail: _tiagodias@ufg.br_
 
-# Agentes químicos: toxicologia e segurança
+# Gestão de Riscos Químicos em Laboratórios Acadêmicos
 
 ## Objetivo geral
 
-Apresentar aos servidores novos saberes e olhares em relação aos agentes químicos presentes em seus ambientes de trabalho.
+Apresentar uma estratégia para gestão de riscos químicos em laboratórios acadêmicos.
 
 ## Conteúdo programático
 
-- ***27/Set e 29/Set:*** Contextualização sobre as **propriedades químicas** e sua relação com a **toxicologia** e **segurança** laboratorial
+- ***Seção 1:*** Contextualização sobre as **propriedades químicas** e sua relação com a **toxicologia** e **segurança** laboratorial
 
     - Introduzir conceitos de segurança química e toxicologia
 
@@ -52,7 +52,7 @@ Apresentar aos servidores novos saberes e olhares em relação aos agentes quím
 
     - Relacionar as normas técnicas da ABNT aos conhecimentos sobre as propriedades dos agentes químicos e seus perigos.
 
-- ***11/Out:*** Produtos Químicos - do recebimento no laboratório ao descarte.
+- ***Seção 1:*** Produtos Químicos - do recebimento no laboratório ao descarte.
 
     - Demonstrar procedimentos de segurança no fluxo dos produtos em laboratórios, desde o recebimento até o descarte para coleta;
 
@@ -61,8 +61,6 @@ Apresentar aos servidores novos saberes e olhares em relação aos agentes quím
 ![](/imagens/bit.ly_seg-quim.png)
 
 ### [https://bit.ly/seg-quim](https://bit.ly/seg-quim)
-
-# Introdução
 
 
 
