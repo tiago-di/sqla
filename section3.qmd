@@ -1,7 +1,7 @@
 ---
-title: "**Agentes Químicos e Biológicos**"
-subtitle: "Novos saberes e olhares"
-author: "Adriana Andrade </br> Elaine Jacob </br> Fábio Neves </br> Renan Mendes </br> Tiago Dias"
+title: "**Conceitos sobre toxicologia e segurança química**"
+#subtitle: ""
+author: "Tiago Dias"
 lang: pt-BR
 format: 
     revealjs:
@@ -10,7 +10,7 @@ format:
         height: 900
         self-contained: false
         incremental: false
-        footer: "DAD/PROPESSOAS/UFG - Set-Out/2023"
+        footer: "DAD/PROPESSOAS/UFG - Out/2025"
         theme: ["custom.scss"]
         slide-number: c/t
         show-slide-number: all
@@ -18,6 +18,7 @@ format:
         preview-links: false
 ---
 
+<!--
 # Bem vindos(as)!
 
 ## Acesse o conteúdo
@@ -94,6 +95,7 @@ format:
 | ![](images/paste-3.png){width="500"} | ![](images/paste-4.png){width="500"} |
 +--------------------------------------+--------------------------------------+
 
+-->
 ## Questionamentos a responder
 
 ::: incremental

@@ -1,7 +1,7 @@
 ---
-title: "**Agentes Químicos e Biológicos**"
-subtitle: "Novos saberes e olhares"
-author: "Adriana Andrade </br> Elaine Jacob </br> Fábio Neves </br> Renan Mendes </br> Tiago Dias"
+title: "**O Sistema GHS para comunicação de riscos químicos**"
+# subtitle: "Novos saberes e olhares"
+author: "Tiago Dias"
 lang: pt-BR
 format: 
     revealjs:
@@ -10,7 +10,7 @@ format:
         height: 900
         self-contained: false
         incremental: false
-        footer: "DAD/PROPESSOAS/UFG - Set-Out/2023"
+        footer: "DAD/PROPESSOAS/UFG - Out/2025"
         theme: ["custom.scss"]
         slide-number: c/t
         show-slide-number: all
@@ -53,6 +53,14 @@ GHS abrange, entre outros, os seguintes elementos:
 ## 1. Classe de perigo
 
 A classe de perigo descreve a natureza do perigo físico, para a saúde ou para o ambiente, por exemplo, líquidos inflamáveis, toxicidade aguda, oral.
+
+O GHS contempla **três classes** de perigos:
+
+::: incremental
+1. Perigos físicos
+2. Perigos à saúde
+3. Perigos ambientais
+:::
 
 ## Perigos físicos {.smaller}
 
@@ -424,4 +432,4 @@ As informações contidas na EDS devem ser apresentadas utilizando as seguintes 
 
 # Perguntas, sugestões, críticas? {background="#43464B"}
 
-# Muito obrigado! Tenham um ótimo dia! {background="#003366"}
+# Muito obrigado!!! {background="#003366"}

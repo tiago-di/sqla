@@ -9,8 +9,8 @@ website:
     left:
       - href: index.qmd
         text: Início
-      - href: welcome.qmd
-        text: Boas vindas
+      #- href: welcome.qmd
+        # text: Boas vindas
     background: light
     logo: /imagens/logo_ufg_vert.png
     logo-alt: "Logo UFG"

@@ -1,7 +1,7 @@
 ---
 title: "**Gestão de Riscos Químicos em Laboratórios Acadêmicos**"
 # subtitle: ""
-# author: "Tiago Dias"
+author: "Tiago Dias"
 lang: pt-BR
 format: 
     revealjs:
@@ -10,16 +10,16 @@ format:
         height: 900
         self-contained: false
         incremental: false
-        # footer: "DAD/PROPESSOAS/UFG - Out/2025"
+        footer: "DAD/PROPESSOAS/UFG - Out/2025"
         theme: ["custom.scss"]
         slide-number: c/t
         show-slide-number: all
         hash-type: number
         preview-links: false
-    pdf:
-        toc: false
-        number-sections: false
-        colorlinks: true
+    # pdf:
+        # toc: false
+        # number-sections: false
+        # colorlinks: true
 ---
 
 # Bem vindos(as)!

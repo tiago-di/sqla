@@ -16,10 +16,10 @@ format:
         show-slide-number: all
         hash-type: number
         preview-links: false
-    pdf:
-        toc: false
-        number-sections: false
-        colorlinks: true
+    # pdf:
+        # toc: false
+        # number-sections: false
+        # colorlinks: true
 ---
 
 # Bem vindos(as)!
