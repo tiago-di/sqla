@@ -20,6 +20,10 @@ format:
 
 # GHS - Sistema Globalmente Harmonizado de comunicação de perigos {background="#003366"}
 
+## Objetivo
+-   Compreender o sistema de comunicação de perigos químicos (**GHS**)
+
+
 ## Introdução
 
 O Sistema Globalmente Harmonizado de Classificação e Rotulagem de Produtos Químicos (GHS) foi desenvolvido pelas Nações Unidas ao longo de mais de uma década. O documento é regularmente revisado e atualizado uma vez a cada 2 anos para refletir novas experiências nacionais, regionais e internacionais no campo da comunicação de perigos.

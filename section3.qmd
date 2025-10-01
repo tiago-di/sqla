@@ -104,11 +104,10 @@ format:
 -   Como esses perigos devem ser comunicados aos usuários do laboratório?
 :::
 
-## Objetivos
+## Objetivo
 
 ::: incremental
 -   Compreender a relação entre as **propriedades químicas** a **toxicologia** e a **segurança** laboratorial
--   Compreender o sistema de comunicação de perigos químicos (**GHS**)
 :::
 
 # Propriedades químicas importantes para a toxicologia
