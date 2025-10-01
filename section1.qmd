@@ -48,7 +48,7 @@ Apresentar uma estratégia para gestão de riscos químicos em laboratórios aca
 1. Propor a adoção de uma <u> cultura de segurança</u> baseada no **conhecimento** de **perigos** e **riscos**, em vez de **regras**
 2. Conhecer os **perigos dos agentes químicos** e os principais meios de **minimizar os riscos** .
 3. Apresentar formas padronizadas de **comunicação de riscos**
-4. Demonstrar **procedimentos de segurança** no fluxo dos produtos em laboratórios, desde o recebimento até o descarte para coleta
+<!-- 4. Demonstrar **procedimentos de segurança** no fluxo dos produtos em laboratórios, desde o recebimento até o descarte para coleta -->
 :::
 
 <!-- # Acesse o conteúdo 
