@@ -52,7 +52,7 @@ Apresentar uma estratégia para gestão de riscos químicos em laboratórios aca
 
     - Relacionar as normas técnicas da ABNT aos conhecimentos sobre as propriedades dos agentes químicos e seus perigos.
 
-- ***Seção 1:*** Produtos Químicos - do recebimento no laboratório ao descarte.
+- ***Seção 2:*** Produtos Químicos - do recebimento no laboratório ao descarte.
 
     - Demonstrar procedimentos de segurança no fluxo dos produtos em laboratórios, desde o recebimento até o descarte para coleta;
 

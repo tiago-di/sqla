@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "Agentes Químicos e Biológicos - Novos Saberes e Olhares"
-  description: "Novos saberes e olhares"
+  title: "Gestão de Riscos Químicos em Laboratórios Acadêmicos"
+  # description: ""
   navbar:
     left:
       - href: index.qmd

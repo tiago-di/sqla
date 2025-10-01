@@ -45,10 +45,10 @@ Apresentar uma estratégia para gestão de riscos químicos em laboratórios aca
 # Objetivos específicos
 
 ::: incremental
-1. Propor a adoção de uma <u> cultura de segurança</u> baseada no **conhecimento** de **perigos** e **riscos**, em vez de **regras**
-2. Conhecer os **perigos dos agentes químicos** e os principais meios de **minimizar os riscos** .
-3. Apresentar formas padronizadas de **comunicação de riscos**
-4. Demonstrar **procedimentos de segurança** no fluxo dos produtos em laboratórios, desde o recebimento até o descarte para coleta
+1. Propor a adoção de uma cultura de segurança baseada em riscos, em vez de regras
+2. Conhecer os diferentes agentes químicos, formas de contaminação, ação no organismo e meios de prevenção e controle.
+3. Relacionar as normas técnicas da ABNT aos conhecimentos sobre as propriedades dos agentes químicos e seus perigos
+4. Demonstrar procedimentos de segurança no fluxo dos produtos em laboratórios, desde o recebimento até o descarte para coleta
 :::
 
 <!-- # Acesse o conteúdo 
@@ -59,123 +59,7 @@ Apresentar uma estratégia para gestão de riscos químicos em laboratórios aca
 
 # Seção 1: Construindo uma cultura de segurança baseada em riscos {background="#003366"}
 
-## Cultura de Segurança
-
-**O que é uma Cultura de Segurança?**
-
-::: incremental
--   A **segurança** tem a ver com as **ameaças físicas** e também com com **crenças** e **atitudes** compartilhadas.
--   **Cultura de segurança**: É a coleção de crenças, valores, percepções e comportamentos sobre riscos à saúde e segurança mantidos por uma organização e seus membros.
-:::
-
-## Dois tipos de cultura de segurança
-
-::: columns
-::: {.column width="50%"}
-1. Baseada em **regras**
-
-::: incremental
-- Aderência a regras
-- Autoridade
-- Fiscalização
-:::
-
-:::
-
-::: {.column width="50%"}
-1. Baseada em **riscos**
-
-::: incremental
-- Foco no risco, não na regra
-- Compreensão da razão por tras da regra
-:::
-
-:::
-:::
-
-## Cultura de Segurança Baseada em Regras
-
-**Valoriza a aderência às regras**
-
--   As regras de segurança são estabelecidas por autoridades externas ou internas, como a Administração de Segurança e Saúde Ocupacional ou um membro da faculdade. 
-
--   A instituição depende da fiscalização para garantir que seus membros obedeçam às regras de segurança.
-
--   Baixo envolvimento das pessoas
-
-    -   Baixa participação dos usuários na definição das regras
-    -   Pouco compromisso com as regras ou compreensão das razões por trás delas.
-
-## Cultura de Segurança Baseada em Regras
-
-**Valoriza a aderência às regras**
-
--   Requer grandes investimentos de recursos
-
--   Uma cultura baseada em regras exige treinamento constante e requalificação do pessoal. A fiscalização das regras também requer grandes quantidades de tempo e atenção.
-
--   Cria percepções negativas sobre precauções de segurança
-
-    -   As regras parecem arbitrárias e inconvenientes - uma barreira para um trabalho eficiente em vez de uma proteção contra incidentes. Estudantes e funcionários tendem a desenvolver uma atitude de culpabilidade e não se importam ativamente uns com os outros.
-
-## Cultura de Segurança Baseada em Regras
-
-**Valoriza a aderência às regras**
-
--   Não é facilmente adaptável a novas situações
-
--   As regras são escritas para perigos conhecidos: uma operação de laboratório de rotina, uma operação comum em oficinas, e assim por diante. Quando uma nova situação se desenvolve, como um experimento inovador, as regras existentes muitas vezes não abrangem a situação, parecem excessivamente cautelosas ou especificam ações que são potencialmente perigosas.
-
-## Cultura de Segurança Baseada em Risco
-
-**Mantém o foco no risco, não nas regras**
-
--   Embora leis e regulamentos aplicáveis sejam seguidos, as pessoas concentram sua atenção em minimizar o risco em vez de memorizar regras.
-
-**As avaliações de risco são compartilhadas**
-
--   A tolerância ao risco é definida em conjunto por todos os membros da organização, não apenas por um gerente ou regulador. Todos contribuem.
-
-**Requer menos recursos**
-
--   Ensinar conceitos de risco que apoiam as regras de segurança requer menos tempo e dinheiro do que a fiscalização constante das regras e a requalificação.
-
-## Cultura de Segurança Baseada em Risco
-
-**Cria uma atitude positiva em relação à segurança**
-
--   Como as pessoas entendem as razões por trás dos esforços de minimização de riscos, estudantes e funcionários passam a se preocupar ativamente com a própria segurança e a segurança uns dos outros.
-
-**É adaptável a novas condições**
-
--   Quando os trabalhadores de laboratório podem reconhecer perigos, estimar riscos e identificar medidas para minimizar esses riscos, eles respondem a novos perigos e situações de maneira previsível, segura e mais competente.
-
-## Resumindo
-
-::: columns
-::: {.column width="50%"}
-### Cultura baseada em risco
-
--   Pesquisadores educados para minimizar o risco
--   Cultura lida facilmente com situações novas
--   Colaboração favorecida em vez de fiscalização
--   Ênfase na redução do risco
--   Menos políticas, mais gerais
-:::
-
-::: {.column width="50%"}
-### Cultura baseado em regras
-
--   Pesquisadores treinados em requisitos
--   Muitas políticas de segurança
--   Ênfase na conformidade com leis e regulamentos
--   Muitas inspeções de laboratório
-:::
-:::
-
-## Riscos em Laboratórios Acadêmicos {background="#43464B"}
-
-**Laboratórios acadêmicos são perigosos?**
+## Laboratórios químicos são perigosos? {background="#43464B"}
 
 ![](/imagens/laboratorio.jpg)
 
@@ -244,8 +128,6 @@ Usar roupas que sejam não-sintéticas e ajustadas minimiza o risco de ferimento
 
 ![](imagens/image_4.b26a4074.png){.center width="500"}
 
-<!-- 
-
 ## Seção de perguntas {background="#43464B"}
 
 <br><br>
@@ -258,11 +140,7 @@ Usar roupas que sejam não-sintéticas e ajustadas minimiza o risco de ferimento
 -   Você sabe o que fazer caso os níveis de riscos fiquem sem controle (emergência)
 :::
 
--->
-
-# Os **agentes químicos** são **fontes de perigos** consideráveis em laboratórios acadêmicos
-
-**Conhecer os perigos e controlar os riscos dos agentes químicos é fundamental nos laboratórios**
+# Os **agentes químicos** são as principais **fontes de perigos** nos laboratórios químicos
 
 ## Para trabalhar em segurança em um laboratório químico, é necessário:
 
@@ -346,8 +224,6 @@ Usar roupas que sejam não-sintéticas e ajustadas minimiza o risco de ferimento
 :::
 :::
 
-<!--
-
 ## Seção de perguntas {background="#43464B"}
 
 <br><br>
@@ -374,18 +250,99 @@ Usar roupas que sejam não-sintéticas e ajustadas minimiza o risco de ferimento
 :::
 :::
 
--->
-
 # O uso do sistema RAMP contribui para uma **cultura de segurança** baseada em **riscos** e não em **regras**
 
+## Cultura de Segurança
 
+**O que é uma Cultura Compartilhada de Segurança?**
+
+-   A segurança tem tanto a ver com crenças e atitudes compartilhadas quanto com ameaças físicas.
+
+-   Coleção de crenças, valores, percepções e comportamentos sobre riscos à saúde e segurança mantidos por uma organização e seus membros como uma cultura compartilhada de segurança.
+
+## Cultura de Segurança Baseada em Regras
+
+**Valoriza a aderência às regras**
+
+-   As regras de segurança são estabelecidas por autoridades externas ou internas, como a Administração de Segurança e Saúde Ocupacional ou um membro da faculdade. A instituição depende da fiscalização para garantir que seus membros obedeçam às regras de segurança.
+
+-   Baixo envolvimento de estudantes e funcionários
+
+    -   Estudantes e funcionários participam apenas marginalmente na definição das regras, portanto, têm pouco compromisso com as regras ou compreensão das razões por trás delas.
+
+## Cultura de Segurança Baseada em Regras
+
+**Valoriza a aderência às regras**
+
+-   Requer grandes investimentos de recursos
+
+-   Uma cultura baseada em regras exige treinamento constante e requalificação do pessoal. A fiscalização das regras também requer grandes quantidades de tempo e atenção.
+
+-   Cria percepções negativas sobre precauções de segurança
+
+    -   As regras parecem arbitrárias e inconvenientes - uma barreira para um trabalho eficiente em vez de uma proteção contra incidentes. Estudantes e funcionários tendem a desenvolver uma atitude de culpabilidade e não se importam ativamente uns com os outros.
+
+## Cultura de Segurança Baseada em Regras
+
+**Valoriza a aderência às regras**
+
+-   Não é facilmente adaptável a novas situações
+
+-   As regras são escritas para perigos conhecidos: uma operação de laboratório de rotina, uma operação comum em oficinas, e assim por diante. Quando uma nova situação se desenvolve, como um experimento inovador, as regras existentes muitas vezes não abrangem a situação, parecem excessivamente cautelosas ou especificam ações que são potencialmente perigosas.
+
+## Cultura de Segurança Baseada em Risco
+
+**Mantém o foco no risco, não nas regras**
+
+-   Embora leis e regulamentos aplicáveis sejam seguidos, as pessoas concentram sua atenção em minimizar o risco em vez de memorizar regras.
+
+**As avaliações de risco são compartilhadas**
+
+-   A tolerância ao risco é definida em conjunto por todos os membros da organização, não apenas por um gerente ou regulador. Todos contribuem.
+
+**Requer menos recursos**
+
+-   Ensinar conceitos de risco que apoiam as regras de segurança requer menos tempo e dinheiro do que a fiscalização constante das regras e a requalificação.
+
+## Cultura de Segurança Baseada em Risco
+
+**Cria uma atitude positiva em relação à segurança**
+
+-   Como as pessoas entendem as razões por trás dos esforços de minimização de riscos, estudantes e funcionários passam a se preocupar ativamente com a própria segurança e a segurança uns dos outros.
+
+**É adaptável a novas condições**
+
+-   Quando os trabalhadores de laboratório podem reconhecer perigos, estimar riscos e identificar medidas para minimizar esses riscos, eles respondem a novos perigos e situações de maneira previsível, segura e mais competente.
+
+## Resumindo
+
+::: columns
+::: {.column width="50%"}
+### Cultura baseada em risco
+
+-   Pesquisadores educados para minimizar o risco
+-   Cultura lida facilmente com situações novas
+-   Colaboração favorecida em vez de fiscalização
+-   Ênfase na redução do risco
+-   Menos políticas, mais gerais
+:::
+
+::: {.column width="50%"}
+### Cultura baseado em regras
+
+-   Pesquisadores treinados em requisitos
+-   Muitas políticas de segurança
+-   Ênfase na conformidade com leis e regulamentos
+-   Muitas inspeções de laboratório
+:::
+:::
 
 ## Relembrando os conceitos {background="#003366"}
 
 ::: incremental
-- ### Cultura de Regras x Cultura de Riscos
 - ### Risco x Perigo
 - ### Sistema de segurança RAMP
+- ### Cultura de Regras x Cultura de Riscos
 :::
 
 # Perguntas, sugestões, críticas? {background="#43464B"}

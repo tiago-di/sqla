@@ -1,6 +1,6 @@
 ---
 title: "**Periculosidade dos agentes químicos**"
-author: "Tiago Dias"
+# author: "Tiago Dias"
 lang: pt-BR
 format: 
     revealjs:
@@ -9,7 +9,7 @@ format:
         height: 900
         self-contained: false
         incremental: false
-        footer: "DAD/PROPESSOAS/UFG - Set/2023"
+        # footer: "DAD/PROPESSOAS/UFG - Out/2025"
         theme: ["custom.scss"]
         slide-number: c/t
         show-slide-number: all
@@ -23,15 +23,12 @@ format:
 
 > As mesmas propriedades químicas que valorizamos nas substâncias podem torná-las perigosas
 
-::: {.incremental}
-- **Exemplo: Solventes orgânicos**
-:::
+**Exemplo: Solventes orgânicos**
 
 ::: columns
 ::: {.column width="50%" .incremental}
 - ![**Dissolvem bem moléculas orgânicas**](imagens/paste-7.png){width="800"}
 :::
-
 ::: {.column width="50%" .incremental}
 - ![**Ressecam a pele**](imagens/paste-8.png){width="600"}
 :::
@@ -41,9 +38,7 @@ format:
 
 > As mesmas propriedades químicas que valorizamos nas substâncias podem torná-las perigosas
 
-::: {.incremental}
-- **Exemplo: Ácidos e bases**
-:::
+**Exemplo: Ácidos e bases**
 
 ::: columns
 ::: {.column width="50%" .incremental}
@@ -59,9 +54,8 @@ format:
 
 > As mesmas propriedades químicas que valorizamos nas substâncias podem torná-las perigosas
 
-::: {.incremental}
-- **Exemplo: Nitrogênio líquido**
-:::
+**Exemplo: Nitrogênio líquido**
+
 
 ::: columns
 
@@ -78,9 +72,7 @@ format:
 
 > As mesmas propriedades químicas que valorizamos nas substâncias podem torná-las perigosas
 
-::: {.incremental}
-- **Exemplo: Gás**
-:::
+**Exemplo: Gás**
 
 ::: columns
 ::: {.column width="50%" .incremental}
@@ -92,11 +84,14 @@ format:
 :::
 :::
 
+<!--
 
 ## Perigo
 - Fonte potencial de perdas ou danos.
 
 >  Se os riscos químicos não forem reconhecidos, eventos inesperados que resultem em ferimentos pessoais e/ou danos à propriedade podem ocorrer.
+
+-->
 
 ## Risco
 
@@ -133,7 +128,7 @@ format:
 
 ::: {.column width="50%"}
 - Fração pequena de produtos avaliados
-- Baixa exposição para o consumidos comum
+- Baixa exposição para o consumidor comum
 - Risco maior para os trabalhadores de laboratórios
     - Uso de produtos não avaliados ou parcialmente avaliados
     - Medidas para minimizar os riscos ausentes
@@ -458,4 +453,4 @@ De particular preocupação com os agentes oxidantes é o armazenamento adequado
 
 # Perguntas, sugestões, críticas? {background="#43464B"}
 
-# Muito obrigado! Tenham um ótimo dia! {background="#003366"}
+<!-- # Muito obrigado! Tenham um ótimo dia! {background="#003366"} -->

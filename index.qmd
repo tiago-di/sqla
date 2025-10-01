@@ -1,22 +1,18 @@
 ---
-title: "Agentes Químicos e Biológicos - Novos Saberes e Olhares"
+title: "Gestão de Riscos Químicos em Laboratórios Acadêmicos"
 author: "Tiago Dias"
-description: DAD/PROPESSOAS/UFG
-date: 27/Sep/2023
+# description: DAD/PROPESSOAS/UFG
+date: 01/Oct/2025
 date-format: DD/MMM/YYYY
 lang: pt-Br
 ---
 
-# Parte 2: Agentes químicos - toxicologia e segurança
+- Seção 1
 
-## Slides
+   - [1.1 - Cultura de segurança baseada em riscos](section1.qmd)
+   - [1.2 - Periculosidade dos agentes químicos](section2.qmd)
 
-- ### 27/set
-
-    - #### [Seção 1](section1.qmd)
-    - #### [Seção 2](section2.qmd)
-
-- ### 29/set
-    - #### [Seção 1](section3.qmd)
-    - #### [Seção 2](section4.qmd)
+- Seção 2
+  - [2.1](section3.qmd)
+  - [2.2](section4.qmd)
     
