@@ -7,11 +7,11 @@ date-format: DD/MMM/YYYY
 lang: pt-Br
 ---
 
-- Seção 1
+- # Seção 1
    - [1.1 - Cultura de segurança baseada em riscos](section1.qmd)
    - [1.2 - Periculosidade dos agentes químicos](section2.qmd)
 
-- Seção 2
+- # Seção 2
   - [2.1 - Conceitos sobre toxicologia e segurança química](section3.qmd)
   - [2.2 - O Sistema GHS para comunicação de riscos químicos](section4.qmd)
     

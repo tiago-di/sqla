@@ -1,6 +1,6 @@
 ---
 title: "**Periculosidade dos agentes químicos**"
-# author: "Tiago Dias"
+author: "Tiago Dias"
 lang: pt-BR
 format: 
     revealjs:
@@ -9,7 +9,7 @@ format:
         height: 900
         self-contained: false
         incremental: false
-        # footer: "DAD/PROPESSOAS/UFG - Out/2025"
+        footer: "DAD/PROPESSOAS/UFG - Out/2025"
         theme: ["custom.scss"]
         slide-number: c/t
         show-slide-number: all
