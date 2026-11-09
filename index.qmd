@@ -1,9 +1,9 @@
 ---
-title: "Gestão de Riscos Químicos em Laboratórios Acadêmicos"
+title: "Segurança e Biossegurança em Laboratórios de Ensino e Pesquisa"
 author: "Tiago Dias"
-# description: DAD/PROPESSOAS/UFG
-date: 01/Oct/2025
-date-format: DD/MMM/YYYY
+description: FANUT/UFG
+date: 09/Nov/2026
+date-format: DD/MMM/YY
 lang: pt-Br
 ---
 

@@ -10,7 +10,7 @@ format:
         height: 900
         self-contained: false
         incremental: false
-        footer: "DAD/PROPESSOAS/UFG - Out/2025"
+        footer: "FANUT/UFG - Nov/2026"
         theme: ["custom.scss"]
         slide-number: c/t
         show-slide-number: all
@@ -218,7 +218,7 @@ Outra forma de avaliar a volatilidade de uma substância é comparando-a com a e
     -   Exemplos (solubilidade em água a 25 ºC:
         -   NaCl: 359 g/L
         -   FeSO~4~: 256 g/L
--   Substâncias pouco miscíveis ou imiscíveis em água são chamads hidrófobas
+-   Substâncias pouco miscíveis ou imiscíveis em água são chamadas hidrófobas
 -   Uma forma de avaliar a miscibilidade da substância frente a solventes hidrofílicos (água) e lipofílicos (óleo ou gordura) é o coeficiente de partição óleo/água
 :::
 

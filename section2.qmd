@@ -9,7 +9,7 @@ format:
         height: 900
         self-contained: false
         incremental: false
-        footer: "DAD/PROPESSOAS/UFG - Out/2025"
+        footer: "FANUT/UFG - Nov/2026"
         theme: ["custom.scss"]
         slide-number: c/t
         show-slide-number: all
@@ -200,7 +200,7 @@ format:
 
 ![](imagens/4.png){width="743"}
 
-## Triade da toxicologia
+## Tríade da toxicologia
 
 ::: columns
 ::: {.column width="60%"}
@@ -445,7 +445,7 @@ De particular preocupação com os agentes oxidantes é o armazenamento adequado
 - **Ácido pícrico:** Tem estrutura química semelhante à do trinitrotolueno (TNT). Este ácido deve permanecer sempre molhado, porque o ácido pícrico seco é explosivo.
 
 - **Materiais pirofóricos:** são altamente reativos e perigosos, mesmo em pequenas quantidades, porque são suscetíveis de inflamar muito rapidamente 
-    - Exemplos: Solução de terc-butillítio, e alguns pós metálicos muito finos (por exemplo, magnésio).
+    - Exemplos: Solução de terc-butil-lítio, e alguns pós metálicos muito finos (por exemplo, magnésio).
 :::
 
 ## Materiais sensíveis ao choque e ao atrito

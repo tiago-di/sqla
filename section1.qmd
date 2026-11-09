@@ -10,7 +10,7 @@ format:
         height: 900
         self-contained: false
         incremental: false
-        footer: "DAD/PROPESSOAS/UFG - Out/2025"
+        footer: "FANUT/UFG - Nov/2026"
         theme: ["custom.scss"]
         slide-number: c/t
         show-slide-number: all
@@ -24,7 +24,7 @@ format:
 
 # Bem vindos(as)!
 
-<!-- ## Tiago Dias {.center .aboutmeslide}
+## Tiago Dias {.center .aboutmeslide}
 
 -   Sobre mim
 
@@ -36,7 +36,7 @@ format:
 
     -   Fone: (62)3209-6270 Ramal 219
 
-    -   e-mail: *tiagodias\@ufg.br* -->
+    -   e-mail: *tiagodias\@ufg.br*
 
 # Objetivo geral
 
@@ -45,7 +45,7 @@ Apresentar uma estratégia para gestão de riscos químicos em laboratórios aca
 # Objetivos específicos
 
 ::: incremental
-1. Propor a adoção de uma <u> cultura de segurança</u> baseada no **conhecimento** de **perigos** e **riscos**, em vez de **regras**
+1. Propor a adoção de uma <u> cultura de segurança</u> baseada no **conhecimento** de **perigos** e **riscos**
 2. Conhecer os **perigos dos agentes químicos** e os principais meios de **minimizar os riscos** .
 3. Apresentar formas padronizadas de **comunicação de riscos**
 <!-- 4. Demonstrar **procedimentos de segurança** no fluxo dos produtos em laboratórios, desde o recebimento até o descarte para coleta -->
@@ -87,7 +87,7 @@ Apresentar uma estratégia para gestão de riscos químicos em laboratórios aca
 
 ::: incremental
 - Foco no risco, não na regra
-- Compreensão da razão por tras da regra
+- Compreensão da razão por trás da regra
 :::
 
 :::
@@ -244,13 +244,12 @@ Usar roupas que sejam não-sintéticas e ajustadas minimiza o risco de ferimento
 
 ![](imagens/image_4.b26a4074.png){.center width="500"}
 
-<!-- 
 
 ## Seção de perguntas {background="#43464B"}
 
 <br><br>
 
-### Dê exemplos de perigos presentes no seu laboratório
+### Dê exemplos de perigos presentes em um laboratório que você frequentemente visita
 
 ::: incremental
 -   Quais são os níveis de riscos desses perigos?
@@ -345,8 +344,6 @@ Usar roupas que sejam não-sintéticas e ajustadas minimiza o risco de ferimento
 :::
 :::
 :::
-
-<!--
 
 ## Seção de perguntas {background="#43464B"}
 

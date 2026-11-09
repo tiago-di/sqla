@@ -10,7 +10,7 @@ format:
         height: 900
         self-contained: false
         incremental: false
-        footer: "DAD/PROPESSOAS/UFG - Out/2025"
+        footer: "FANUT/UFG - Nov/2026"
         theme: ["custom.scss"]
         slide-number: c/t
         show-slide-number: all
@@ -34,7 +34,7 @@ O Sistema Globalmente Harmonizado de Classificação e Rotulagem de Produtos Qu�
     -   Classificação e rotulagem harmonizadas
     -   Segurança no trabalho harmonizada
     -   Fichas de dados de segurança harmonizadas
-    -   Protecão harmonizada dos consumidores
+    -   Proteção harmonizada dos consumidores
     -   Classificação harmonizada dos transportes
 -   Reduzir a necessidade de ensaios e avaliação de produtos químicos e facilitar o comércio internacional de produtos químicos cujos perigos tenham sido devidamente avaliados a nível internacional.
 
